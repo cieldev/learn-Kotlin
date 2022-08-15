@@ -1,5 +1,5 @@
 fun main() {
-    val num = 1
+    val num:Byte = 1
     println(num)
 }
 /*
